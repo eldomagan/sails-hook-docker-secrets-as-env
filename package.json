@@ -1,0 +1,21 @@
+{
+  "name": "sails-hook-docker-secrets-as-env",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "repository": {
+    "type": "git+https://github.com/eldomagan/sails-hook-docker-secrets-as-env.git"
+  },
+  "dependencies": {
+    "docker-secrets-as-env": "^1.0.0"
+  },
+  "sails": {
+    "isHook": true
+  }
+}
